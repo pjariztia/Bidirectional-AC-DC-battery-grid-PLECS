@@ -22,6 +22,10 @@ large-scale, efficient and connected to electric bar that has enough price fluct
 ## Structure
 * Consist on a single phase grid 220V conect with a LCL filter to a Full-Bridge inverter syncronice with PLL technique and VOC. Then, the DC-Link 400V is connected to a Dual Active Bridge (DAB) with a HF Transformer to 12V battery. All parameters are editable to a particular application.
 
+## notes
+* The file you need is [IDB_main](https://github.com/pjariztia/Bidirectional-AC-DC-battery-grid-PLECS/blob/master/IDB_main_V1.plecs)
+* Is not neccesary the "bloques PLECS" folder. There are some custom blocks for implementations.
+
 ## Implementation
 PLECS or simulink can easily export C code trough to CodeComposer or directly with PLECS software. I recommend implementation with TI C2000. More info : [TI C2000](https://youtu.be/OOQp85FsogM)
 
