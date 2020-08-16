@@ -33,6 +33,6 @@ PLECS or simulink can easily export C code trough to CodeComposer or directly wi
 This file is in [PLECS](https://www.plexim.com/home) software standalone or blockset simulink. Also can be easily implemented on simulink.
 
 ## CONTRIBUTING
-See [CONTRIBUTING.md](https://github.com/papercups-io/papercups/blob/master/CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/pjariztia/Bidirectional-AC-DC-battery-grid-PLECS/blob/master/CONTRIBUTING.md)
 
 Enjoy! pjariztia@uc.cl
